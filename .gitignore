@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/Topics/When expression/From string to a number/out/
+/Topics/When expression/From string to a number/out/production/classes/
+/Topics/When expression/Just checking/out/
+/Topics/When expression/Just checking/out/production/classes/
